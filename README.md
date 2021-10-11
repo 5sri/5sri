@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5sri
+- 👋 Hi, I’m @5sri(Sridhar Sivan)
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Spring-Boot and Angular
 - 💞️ I’m looking to collaborate on IT roles
