@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5sri(Sridhar S)
-- 👀 I’m interested in Java and Python
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring-Boot and Angular
 - 💞️ I’m looking to collaborate on IT roles
 - 📫 How to reach me => isredhar@gmail.com
